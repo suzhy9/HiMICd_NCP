@@ -1,4 +1,4 @@
-# HiMICd-NCP: A high-resolution (daily and 1km) atmospheric moisture index collection over the North China Plain during 2003–2020
+# HiMICd-NCP: A daily 1 km atmospheric moisture index collection over the North China Plain during 2003–2020
 
 ##  1.Institutional information
 
@@ -12,6 +12,7 @@ School of Geography and Planning, and Guangdong Key Laboratory for Urbanization 
 ### *2.1 Authors:*
 
 Mrs. Zhiying Su (suzhy9@mail2.sysu.edu.cn)
+Mrs. Manqing Shi (shimq7@mail2.sysu.edu.cn)
 
 Dr. Ming Luo (luom38@mail.sysu.edu.cn)
 
