@@ -13,7 +13,7 @@
 
 ### *2.1 Authors:*
 
-Mrs. Zhiying Su^1^ (suzhy9@mail2.sysu.edu.cn)
+Mrs. Zhiying Su<sup>1</sup> (suzhy9@mail2.sysu.edu.cn)
 
 Dr. Hui Zhang^2^ (zhanghui@niglas.ac.cn)
 
