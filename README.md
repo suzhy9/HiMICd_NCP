@@ -15,15 +15,15 @@
 
 Mrs. Zhiying Su<sup>1</sup> (suzhy9@mail2.sysu.edu.cn)
 
-Dr. Hui Zhang^2^ (zhanghui@niglas.ac.cn)
+Dr. Hui Zhang<sup>2</sup> (zhanghui@niglas.ac.cn)
 
-Mr. Xiang Li^3^ (xiangli_nju@foxmail.com)
+Mr. Xiang Li<sup>3</sup> (xiangli_nju@foxmail.com)
 
-Dr. Sijia Wu^1^ (wusj8@mail.sysu.edu.cn)
+Dr. Sijia Wu<sup>1</sup> (wusj8@mail.sysu.edu.cn)
 
-Mrs. Manqing Shi^1^ (shimq7@mail2.sysu.edu.cn)
+Mrs. Manqing Shi<sup>1</sup> (shimq7@mail2.sysu.edu.cn)
 
-Dr. Ming Luo^1^ (luom38@mail.sysu.edu.cn)
+Dr. Ming Luo<sup>1</sup> (luom38@mail.sysu.edu.cn)
 
 
 ##  3.Codes information
