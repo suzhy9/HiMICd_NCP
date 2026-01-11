@@ -4,18 +4,26 @@
 
 ### *1.1 Organization:* 
 
-School of Geography and Planning, and Guangdong Key Laboratory for Urbanization and Geo-simulation, Sun Yat-sen University, Guangzhou 510006, China.
+1. School of Geography and Planning, and Guangdong Key Laboratory for Urbanization and Geo-simulation, Sun Yat-sen University, Guangzhou 510006, China.
+2. Key Laboratory of Watershed Geographic Sciences, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing 210008, China.
+3. Jiangsu Provincial Key Laboratory for Advanced Remote Sensing and Geographic Information Science and Technology, Key Laboratory for Land Satellite Remote Sensing Applications of Ministry of Natural Resources, International Institute for Earth System Science, Nanjing University, Nanjing, Jiangsu 210023, China.
 
 
 ##  2.Contact information
 
 ### *2.1 Authors:*
 
-Mrs. Zhiying Su (suzhy9@mail2.sysu.edu.cn)
+Mrs. Zhiying Su^1^ (suzhy9@mail2.sysu.edu.cn)
 
-Mrs. Manqing Shi (shimq7@mail2.sysu.edu.cn)
+Dr. Hui Zhang^2^ (zhanghui@niglas.ac.cn)
 
-Dr. Ming Luo (luom38@mail.sysu.edu.cn)
+Mr. Xiang Li^3^ (xiangli_nju@foxmail.com)
+
+Dr. Sijia Wu^1^ (wusj8@mail.sysu.edu.cn)
+
+Mrs. Manqing Shi^1^ (shimq7@mail2.sysu.edu.cn)
+
+Dr. Ming Luo^1^ (luom38@mail.sysu.edu.cn)
 
 
 ##  3.Codes information
