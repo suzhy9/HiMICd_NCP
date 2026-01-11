@@ -12,6 +12,7 @@ School of Geography and Planning, and Guangdong Key Laboratory for Urbanization 
 ### *2.1 Authors:*
 
 Mrs. Zhiying Su (suzhy9@mail2.sysu.edu.cn)
+
 Mrs. Manqing Shi (shimq7@mail2.sysu.edu.cn)
 
 Dr. Ming Luo (luom38@mail.sysu.edu.cn)
