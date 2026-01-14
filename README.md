@@ -1,4 +1,4 @@
-# HiMICd-NCP: A daily 1 km atmospheric moisture index collection over the North China Plain during 2003–2020
+# A high-resolution (daily and 1 km) atmospheric moisture collection over the North China Plain during 2003–2020
 
 ##  1.Institutional information
 
